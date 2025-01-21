@@ -15,7 +15,7 @@ AMlike is a **powerful** platform designed to simplify the process of viewing an
 
 
 ### 🌐 Explore More
-Visit our website to get started: [AMlike](https://amlike.net/)
+Visit our website to get started: [SmartTarger]([https://amlike.net/](https://smarttarget.ir/))
 
 ---
 
@@ -36,6 +36,7 @@ Visit our website to get started: [AMlike](https://amlike.net/)
 - ![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white)
 
 
-
+### Projects 📽️
+- [Amlike](http://amlike.net/)
 
 For any inquiries or support, contact us at: [hooshmandhadaf@gmail.com](mailto:hooshmandhadaf@gmail.com)
