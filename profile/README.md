@@ -1,6 +1,6 @@
 # Hooshmand Hadaf Vira
 
-## Welcome to **AMlike** 🏡
+## Welcome to **Amlike** 🏡
 
 AMlike is a **powerful** platform designed to simplify the process of viewing and listing real estate ads and related businesses. Whether you're looking for properties to buy, rent, or exploring real estate job opportunities, **AMlike** makes it **easy** and **efficient** to access all the information you need.
 
